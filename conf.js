@@ -7,3 +7,4 @@ let b;
 let a;
 let confleg;
 let ni;
+let ggg;
