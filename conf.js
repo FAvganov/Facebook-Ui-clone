@@ -6,3 +6,4 @@ let c;
 let b;
 let a;
 let confleg;
+let ni;
